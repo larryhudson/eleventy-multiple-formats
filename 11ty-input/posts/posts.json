@@ -1,0 +1,4 @@
+{
+  "tags": ["generateMp3", "generatePdf", "generateOgImage"],
+  "layout": "post.njk"
+}
